@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: 881ade30e617d6649a0ea83d8ab41fd1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8242550500800639392
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_0"
+  - first:
+      213: 6836567841988635507
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_1"
+  - first:
+      213: -5653203551765034792
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_2"
+  - first:
+      213: 8234147241400588918
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_3"
+  - first:
+      213: 5627665105098250305
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_4"
+  - first:
+      213: -8119995003219509845
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_5"
+  - first:
+      213: 3728197606202277563
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_6"
+  - first:
+      213: -1730380832941319559
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_7"
+  - first:
+      213: -6590048710659055694
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_8"
+  - first:
+      213: -1417953935199441606
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_9"
+  - first:
+      213: 2108633627570468555
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_10"
+  - first:
+      213: 125421201221483495
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_11"
+  - first:
+      213: -5738874834070903983
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_12"
+  - first:
+      213: 6963820012939628676
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_13"
+  - first:
+      213: 7575786844440192722
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_14"
+  - first:
+      213: -6450961010623397934
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_15"
+  - first:
+      213: -923662694138561022
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_16"
+  - first:
+      213: 1863090830526801830
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_17"
+  - first:
+      213: -5839656409683822970
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_18"
+  - first:
+      213: 8156180940778969816
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_19"
+  - first:
+      213: 1264950004686863764
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_20"
+  - first:
+      213: -5267632892672485014
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_21"
+  - first:
+      213: -528319362074853400
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_22"
+  - first:
+      213: -322673951034739615
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_23"
+  - first:
+      213: 7827733318047740530
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_24"
+  - first:
+      213: -5908370353342218075
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_25"
+  - first:
+      213: -3354487805456564413
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_26"
+  - first:
+      213: -7898504215747628117
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_27"
+  - first:
+      213: -3769157951104989679
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_28"
+  - first:
+      213: -2420833516012174784
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_29"
+  - first:
+      213: -7622237911351707764
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_30"
+  - first:
+      213: 6093157370056410090
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_31"
+  - first:
+      213: 4943181713510721514
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_32"
+  - first:
+      213: 3167621249296176989
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_33"
+  - first:
+      213: 1158668825446554446
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_34"
+  - first:
+      213: 6105428132917297372
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_35"
+  - first:
+      213: 7645589143793856058
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_36"
+  - first:
+      213: -8586240227089284986
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_37"
+  - first:
+      213: -98421219205529701
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_38"
+  - first:
+      213: 4299056627892235495
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_39"
+  - first:
+      213: -6001458948215387700
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_40"
+  - first:
+      213: 8624788139236525387
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_41"
+  - first:
+      213: 646514455196762361
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_42"
+  - first:
+      213: -6237586058580945915
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_43"
+  - first:
+      213: -216743786179062107
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_44"
+  - first:
+      213: 8894940799471898626
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_45"
+  - first:
+      213: -6663249957337715499
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_46"
+  - first:
+      213: -4566029404022274579
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_47"
+  - first:
+      213: 5551620966007094866
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_48"
+  - first:
+      213: 339440867364274109
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_49"
+  - first:
+      213: -3415489271817671145
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_50"
+  - first:
+      213: 6658677141657887688
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_51"
+  - first:
+      213: 2915931238028728525
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_52"
+  - first:
+      213: 1174038569382019720
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_53"
+  - first:
+      213: -6590503578704174659
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_54"
+  - first:
+      213: -2279403880827727067
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_55"
+  - first:
+      213: -1933479360553158314
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_56"
+  - first:
+      213: 6065011357898903264
+    second: "Mu\xF1a-Manzanilla-Cedron-Paico_57"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Mu\xF1a-Manzanilla-Cedron-Paico_0"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 540
+        width: 383
+        height: 373
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1b073720c636270800000000000000
+      internalID: 8242550500800639392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mu\xF1a-Manzanilla-Cedron-Paico_1"
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 512
+        width: 364
+        height: 410
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b67980b3e50ee50800000000000000
+      internalID: 6836567841988635507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mu\xF1a-Manzanilla-Cedron-Paico_2"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 63
+        width: 366
+        height: 428
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d881165259cb81b0800000000000000
+      internalID: -5653203551765034792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mu\xF1a-Manzanilla-Cedron-Paico_3"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 60
+        width: 410
+        height: 445
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ad1f72a41954270800000000000000
+      internalID: 8234147241400588918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c7107475ba4c6654dabd0eb9ad98124a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":2.0},"gridSpriteSize":{"x":768.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "Mu\xF1a-Manzanilla-Cedron-Paico_0": 8242550500800639392
+      "Mu\xF1a-Manzanilla-Cedron-Paico_1": 6836567841988635507
+      "Mu\xF1a-Manzanilla-Cedron-Paico_2": -5653203551765034792
+      "Mu\xF1a-Manzanilla-Cedron-Paico_3": 8234147241400588918
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
