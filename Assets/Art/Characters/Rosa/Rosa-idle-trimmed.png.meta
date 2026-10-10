@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: c07dbd276f48a8c4fbd4d6ea663aa1f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2669449611304328189
+    second: Rosa-idle-trimmed_0
+  - first:
+      213: 4091244547794991774
+    second: Rosa-idle-trimmed_1
+  - first:
+      213: -1803985335202067389
+    second: Rosa-idle-trimmed_2
+  - first:
+      213: -7992196526658476558
+    second: Rosa-idle-trimmed_3
+  - first:
+      213: -1412138241184277992
+    second: Rosa-idle-trimmed_4
+  - first:
+      213: -404898140242781400
+    second: Rosa-idle-trimmed_5
+  - first:
+      213: 5983330227770081711
+    second: Rosa-idle-trimmed_6
+  - first:
+      213: -6603222682845388423
+    second: Rosa-idle-trimmed_7
+  - first:
+      213: 8950138304706905680
+    second: Rosa-idle-trimmed_8
+  - first:
+      213: 5516716355428739667
+    second: Rosa-idle-trimmed_9
+  - first:
+      213: -5824925220800377470
+    second: Rosa-idle-trimmed_10
+  - first:
+      213: -6956397701600953267
+    second: Rosa-idle-trimmed_11
+  - first:
+      213: -369641448217711995
+    second: Rosa-idle-trimmed_12
+  - first:
+      213: -6482561386588165668
+    second: Rosa-idle-trimmed_13
+  - first:
+      213: -4334189468326443457
+    second: Rosa-idle-trimmed_14
+  - first:
+      213: -1652232707131407724
+    second: Rosa-idle-trimmed_15
+  - first:
+      213: 2665267821528979157
+    second: Rosa-idle-trimmed_16
+  - first:
+      213: 166698500449474439
+    second: Rosa-idle-trimmed_17
+  - first:
+      213: -6501077456164552628
+    second: Rosa-idle-trimmed_18
+  - first:
+      213: -5899310844315669678
+    second: Rosa-idle-trimmed_19
+  - first:
+      213: -2700419092571167804
+    second: Rosa-idle-trimmed_20
+  - first:
+      213: 875617955486114294
+    second: Rosa-idle-trimmed_21
+  - first:
+      213: 388778083703537377
+    second: Rosa-idle-trimmed_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1058
+        width: 88
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304a66cc8b534fad0800000000000000
+      internalID: -2669449611304328189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1058
+        width: 88
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9af2986d3507c830800000000000000
+      internalID: 4091244547794991774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_2
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1058
+        width: 88
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c444345e4f6f6e0800000000000000
+      internalID: -1803985335202067389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_3
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1058
+        width: 88
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5296d7a93061190800000000000000
+      internalID: -7992196526658476558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_4
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1057
+        width: 88
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a577060c3176ce0800000000000000
+      internalID: -1412138241184277992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 801
+        width: 88
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bdc946943816af0800000000000000
+      internalID: -404898140242781400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_6
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 801
+        width: 88
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1c710242f090350800000000000000
+      internalID: 5983330227770081711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 802
+        width: 88
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971e23094f3ac54a0800000000000000
+      internalID: -6603222682845388423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_8
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 801
+        width: 88
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0560ca64e57453c70800000000000000
+      internalID: 8950138304706905680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_9
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 802
+        width: 88
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35aeae3eb405f8c40800000000000000
+      internalID: 5516716355428739667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 546
+        width: 88
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dcafa9f55b92fa0800000000000000
+      internalID: -5824925220800377470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 546
+        width: 89
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c3bbf9529e57f90800000000000000
+      internalID: -6956397701600953267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_12
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 546
+        width: 89
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ae8b0bf05cedaf0800000000000000
+      internalID: -369641448217711995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_13
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 546
+        width: 89
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9afb5d3c05906a0800000000000000
+      internalID: -6482561386588165668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_14
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 546
+        width: 89
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36c92f54add9d3c0800000000000000
+      internalID: -4334189468326443457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 290
+        width: 89
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49286255b171219e0800000000000000
+      internalID: -1652232707131407724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_16
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 290
+        width: 89
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6938566feecf420800000000000000
+      internalID: 2665267821528979157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_17
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 290
+        width: 88
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78791e7276b305200800000000000000
+      internalID: 166698500449474439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_18
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 290
+        width: 88
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4003007f7887c5a0800000000000000
+      internalID: -6501077456164552628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_19
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 290
+        width: 88
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b64f00b00712ea0800000000000000
+      internalID: -5899310844315669678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 34
+        width: 88
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3ec9a842f268ad0800000000000000
+      internalID: -2700419092571167804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_21
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 34
+        width: 88
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f124bb24e1d62c00800000000000000
+      internalID: 875617955486114294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rosa-idle-trimmed_22
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 34
+        width: 88
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee3b977b97356500800000000000000
+      internalID: 388778083703537377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rosa-idle-trimmed_0: -2669449611304328189
+      Rosa-idle-trimmed_1: 4091244547794991774
+      Rosa-idle-trimmed_10: -5824925220800377470
+      Rosa-idle-trimmed_11: -6956397701600953267
+      Rosa-idle-trimmed_12: -369641448217711995
+      Rosa-idle-trimmed_13: -6482561386588165668
+      Rosa-idle-trimmed_14: -4334189468326443457
+      Rosa-idle-trimmed_15: -1652232707131407724
+      Rosa-idle-trimmed_16: 2665267821528979157
+      Rosa-idle-trimmed_17: 166698500449474439
+      Rosa-idle-trimmed_18: -6501077456164552628
+      Rosa-idle-trimmed_19: -5899310844315669678
+      Rosa-idle-trimmed_2: -1803985335202067389
+      Rosa-idle-trimmed_20: -2700419092571167804
+      Rosa-idle-trimmed_21: 875617955486114294
+      Rosa-idle-trimmed_22: 388778083703537377
+      Rosa-idle-trimmed_3: -7992196526658476558
+      Rosa-idle-trimmed_4: -1412138241184277992
+      Rosa-idle-trimmed_5: -404898140242781400
+      Rosa-idle-trimmed_6: 5983330227770081711
+      Rosa-idle-trimmed_7: -6603222682845388423
+      Rosa-idle-trimmed_8: 8950138304706905680
+      Rosa-idle-trimmed_9: 5516716355428739667
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

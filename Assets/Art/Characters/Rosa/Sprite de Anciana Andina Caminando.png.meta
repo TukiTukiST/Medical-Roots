@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 30f8054c34fe695498d63b42f0bce1b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3792437201374443772
+    second: Sprite de Anciana Andina Caminando_0
+  - first:
+      213: 1158224677434567083
+    second: Sprite de Anciana Andina Caminando_1
+  - first:
+      213: -3537198226863684618
+    second: Sprite de Anciana Andina Caminando_2
+  - first:
+      213: 3867679675590474611
+    second: Sprite de Anciana Andina Caminando_3
+  - first:
+      213: 1570895063287487313
+    second: Sprite de Anciana Andina Caminando_4
+  - first:
+      213: 5608366971573926162
+    second: Sprite de Anciana Andina Caminando_5
+  - first:
+      213: 9169076790090290789
+    second: Sprite de Anciana Andina Caminando_6
+  - first:
+      213: 6387349708097991766
+    second: Sprite de Anciana Andina Caminando_7
+  - first:
+      213: 1576104151567195749
+    second: Sprite de Anciana Andina Caminando_8
+  - first:
+      213: 7477852416668783680
+    second: Sprite de Anciana Andina Caminando_9
+  - first:
+      213: 4704298469272196168
+    second: Sprite de Anciana Andina Caminando_10
+  - first:
+      213: 1487202727791642457
+    second: Sprite de Anciana Andina Caminando_11
+  - first:
+      213: 9104192427596249345
+    second: Sprite de Anciana Andina Caminando_12
+  - first:
+      213: -7089234015673311970
+    second: Sprite de Anciana Andina Caminando_13
+  - first:
+      213: -5086044615833680541
+    second: Sprite de Anciana Andina Caminando_14
+  - first:
+      213: 5395584351579882241
+    second: Sprite de Anciana Andina Caminando_15
+  - first:
+      213: 6607628933924418019
+    second: Sprite de Anciana Andina Caminando_16
+  - first:
+      213: 4982311749930949560
+    second: Sprite de Anciana Andina Caminando_17
+  - first:
+      213: 7413239248231745545
+    second: Sprite de Anciana Andina Caminando_18
+  - first:
+      213: -2212076242762700855
+    second: Sprite de Anciana Andina Caminando_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite de Anciana Andina Caminando_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 233
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf876ec9a8171a430800000000000000
+      internalID: 3792437201374443772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de Anciana Andina Caminando_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 304
+        width: 233
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba924942537d21010800000000000000
+      internalID: 1158224677434567083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de Anciana Andina Caminando_2
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 304
+        width: 233
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f306ab14f859eec0800000000000000
+      internalID: -3537198226863684618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de Anciana Andina Caminando_3
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 304
+        width: 233
+        height: 429
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b71905c22cca530800000000000000
+      internalID: 3867679675590474611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e6a95678aa3cb3d4c81ef1883245a512
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":384.0,"y":1024.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sprite de Anciana Andina Caminando_0: 3792437201374443772
+      Sprite de Anciana Andina Caminando_1: 1158224677434567083
+      Sprite de Anciana Andina Caminando_2: -3537198226863684618
+      Sprite de Anciana Andina Caminando_3: 3867679675590474611
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
